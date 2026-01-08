@@ -50,7 +50,7 @@ This structured format enables precise supervision for API-specific code generat
 ## 🏗️ Methodology
 
 <p align="center">
-  <img src="../images/methodology.png" width="800">
+  <img src="./images/Methodology.png" width="800">
   <br>
   <em>End-to-end methodology for LoRA-based fine-tuning of LLMs for API code generation</em>
 </p>
